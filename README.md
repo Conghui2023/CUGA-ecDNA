@@ -13,6 +13,7 @@ The ecDNA data can be visualized and further analyzed on a dedicated web platfor
 ## Citation
 
 ## Contact us
-If you have any questions or suggestions, please don't hesitate to contact us: Dr. Lv: lvwei@biomed.au.dk
+If you have any questions or suggestions, please don't hesitate to contact us: Dr. Lv: weilv@zju.edu.cn
+
 
 
